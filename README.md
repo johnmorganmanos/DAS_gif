@@ -1,2 +1,2 @@
 # DAS_gif
-Repo for code to show concept of DAS and light transmission through the fiber optic cable.
+Repo for code to show concept of DAS, light transmission, light reflection, and light refraction through a fiber optic cable.
